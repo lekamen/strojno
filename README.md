@@ -20,3 +20,6 @@ Svi parametri nalaze se u utils/config.py datoteci.
 * U direktoriju results/breeds se spremaju analogno model, tekstualna datoteka i vrijednosti modela za svaku epohu kao i za binarni klasifikator.
 
 ## Pokretanje ResNetModela
+* Na Google Drive-u napraviti direktorij dataset_drive
+* Sve slike uploadati u direktorij (BEZ foldera images, samo slike)
+* Izvršavati redom ćelije u Jupyter bilježnici resnet50model.ipynb
